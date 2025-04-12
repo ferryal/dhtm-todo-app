@@ -17,9 +17,5 @@
     "@vitejs/plugin-vue": "^5.0.4",
     "vite": "^5.1.4",
     "vite-plugin-pwa": "^0.18.0"
-  },
-  "engines": {
-    "node": "v23.6.1",
-    "npm": "11.0.0"
   }
 }
