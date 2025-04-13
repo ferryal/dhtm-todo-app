@@ -89,7 +89,7 @@ const clearCompleted = () => {
   flex-direction: column;
   /* Use height constraints that allow the component to grow but maintain reasonable proportions */
   min-height: 400px;
-  max-height: calc(100vh - 200px);
+  max-height: calc(100vh - 330px);
 }
 
 .todoapp:hover {
